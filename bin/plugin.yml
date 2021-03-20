@@ -1,0 +1,7 @@
+main: com.ZnD.main.Main      
+name: FreezeTag
+version: 1.0
+author: ZnD
+
+commands:
+   ft:
